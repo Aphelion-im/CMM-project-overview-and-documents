@@ -1,7 +1,7 @@
 # College of Multimedia Amsterdam
 Updated: 10-3-2024
 
-College of Multimedia Amsterdam module 1 and 2 projecten
+College of Multimedia Amsterdam module 1 and 2 projects.
 
 ## Projecten Module 1 Github Repositories
 * [HE-1](https://github.com/Aphelion-im/CMM-Web-Design-Module-1-HE-1). The 2 lessons duration casus. Greenpeace and Lady Gaga wireframes, prototype and presentation.
